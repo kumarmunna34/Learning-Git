@@ -1,4 +1,6 @@
 target/
+C:\Users\munna/
+git rm -r --cached C:\Users\munna/
 pom.xml.tag
 pom.xml.releaseBackup
 pom.xml.versionsBackup

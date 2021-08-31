@@ -1,6 +1,8 @@
 target/
 C:\Users\munna/
 git rm -r --cached C:\Users\munna/
+new.js
+new3.js
 pom.xml.tag
 pom.xml.releaseBackup
 pom.xml.versionsBackup
